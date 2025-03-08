@@ -1,1 +1,1 @@
-<h1 align="center">Aidan Chien's <em>Design Portfolio</em></h1>
+<h1 align="center">Aidan Chien's Design Portfolio</h1>
